@@ -1,0 +1,60 @@
+Plugin Name: Wiki
+Author: S H Mohanjith (Incsub)
+
+Change Log:
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+1.0.8 - 09/18/2011
+----------------------------------------------------------------------
+- Fixed: Wiki widget, only top level
+
+1.0.8 - 09/18/2011
+----------------------------------------------------------------------
+- Fixed: Wiki widget, unlimited posts
+
+1.0.7 - 07/31/2011
+----------------------------------------------------------------------
+- Fixed: Wiki templates
+
+1.0.6 - 06/20/2011
+----------------------------------------------------------------------
+- Fixed: Rewrite rules endless recursion
+
+1.0.5 - 06/19/2011
+----------------------------------------------------------------------
+- Fixed: Page formatting for Wiki in Blogsmu
+- Fixed: Wiki revision compare error
+- Fixed: Wiki create issue when no permalink is not set
+- WordPress 3.2 compatibility
+- Fixed: Link button in fronend editor
+- Added: Link to existing pages
+- Fixed: Wiki widget
+
+1.0.4 - 05/08/2011
+----------------------------------------------------------------------
+- Matching wp.org version to prevent upgrade race
+
+1.0.2 - 03/27/2011
+----------------------------------------------------------------------
+- Slug fix for older releases
+
+1.0.1 - 03/25/2011
+----------------------------------------------------------------------
+- 'You are not allowed to edit this post' when a network user creates
+   a new wiki
+- Wiki slug added to Wiki Settings
+- Fixed: Wiki default options
+
+1.0.0 - 02/16/2011
+----------------------------------------------------------------------
+- Fixed: Rich edit disabled for non Wiki pages
+
+0.1.1 - 02/15/2011
+----------------------------------------------------------------------
+- Slug as an option
+
+0.1.0 - 01/18/2011
+----------------------------------------------------------------------
+- Initial Release
+
